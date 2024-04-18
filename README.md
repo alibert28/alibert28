@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hola 👋, Soy Alibert Luna</h1>
+<h3 align="center">Estudiante de Ingeniería Mecatrónia en la PUCP, Lima🌟.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=alibert28&color=dc143c"
+    alt="alibert28" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://editor.analyticsvidhya.com/uploads/58604alphabytesolutions.gif" alt="alibert28" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+<!-- - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **adampithewan@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live. -->
 
-<br>
+<!-- <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,9 +39,10 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
+<br> -->
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -87,20 +88,20 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alibert28&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="alibert28" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibert28&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="alibert28" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alibert28&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alibert28" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-[Adam-pw](https://github.com/Adam-pw)
+[alibert28](https://github.com/alibert28)
