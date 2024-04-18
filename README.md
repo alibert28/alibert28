@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://editor.analyticsvidhya.com/uploads/58604alphabytesolutions.gif" alt="alibert28" /></p>
+<img align="right" src="https://editor.analyticsvidhya.com/uploads/58604alphabytesolutions.gif" alt="alibert28" />
 
 
 <!-- - 🌱 I’m currently learning Web Development and other programming languages
@@ -104,5 +104,3 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
-[alibert28](https://github.com/alibert28)
