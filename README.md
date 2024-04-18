@@ -3,9 +3,10 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=alibert28&color=dc143c"
-    alt="alibert28" /> 
-  </p>
+<p align="center">
+    <h3>Profile Views:</h3>
+    <img src="https://komarev.com/ghpvc/?username=alibert28&color=dc143c" alt="alibert28" /> 
+</p>
 
 <br>
 
